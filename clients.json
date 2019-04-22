@@ -2,35 +2,47 @@
   "clients": [
     {
       "id": 16889686,
-      "name": "hgjgjhhjghj",
-      "inn": "4565656454",
-      "orgm": "55664656",
+      "name": "УФССП РОССИИ ПО КЕМЕРОВСКОЙ ОБЛАСТИ",
+      "inn": "4205077474",
+      "ogrn": "1044205103822",
+      "objects": "2",
+      "charges": "3040",
+      "volumes": "8",
+      "geozone": "1",
+      "containers": "6",
+      "volume_containers": "6.6",
       "contract": [
-        "gfgfghfghfgh",
-        "fghfghf",
-        "fghfghfhg"
+        "№12-СЖ/12 от 24.01.2019"
       ]
     },
     {
-      "id": 26889686,
-      "name": "hgjgjhhjghj",
-      "inn": "4565656454",
-      "orgm": "55664656",
+      "id": 16889686,
+      "name": "УФССП РОССИИ ПО КЕМЕРОВСКОЙ ОБЛАСТИ",
+      "inn": "4205077474",
+      "ogrn": "1044205103822",
+      "objects": "2",
+      "charges": "3040",
+      "volumes": "8",
+      "geozone": "1",
+      "containers": "6",
+      "volume_containers": "6.6",
       "contract": [
-        "gfgfghfghfgh",
-        "fghfghf",
-        "fghfghfhg"
+        "№12-СЖ/12 от 24.01.2019"
       ]
     },
     {
-      "id": 356456566,
-      "name": "jhghhjghj",
-      "inn": "456u56454",
-      "orgm": "55664656",
+      "id": 16889686,
+      "name": "УФССП РОССИИ ПО КЕМЕРОВСКОЙ ОБЛАСТИ",
+      "inn": "4205077474",
+      "ogrn": "1044205103822",
+      "objects": "2",
+      "charges": "3040",
+      "volumes": "8",
+      "geozone": "1",
+      "containers": "6",
+      "volume_containers": "6.6",
       "contract": [
-        "gfgfghfghfgh",
-        "fghfghf",
-        "fghfghfhg"
+        "№12-СЖ/12 от 24.01.2019"
       ]
     }
   ]
