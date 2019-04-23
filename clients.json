@@ -16,31 +16,60 @@
       ]
     },
     {
-      "id": 16889686,
-      "name": "УФССП РОССИИ ПО КЕМЕРОВСКОЙ ОБЛАСТИ",
-      "inn": "4205077474",
-      "ogrn": "1044205103822",
+      "id": 26889686,
+      "name": "ООО \"СИСТЕМА УНИВЕРСАМОВ \"БЕГЕМОТ\"",
+      "inn": "4205259611",
+       "ogrn": "1134205003580",
+      "objects": "327",
+      "charges": "238 985.15",
+      "volumes": "236,52",
+      "geozone": "2",
+      "containers": "3",
+      "volume_containers": "10.2",
+      "contract": [
+        "№10-СЖ/2 от 24.01.2019",
+        "№15-СЖ/15 от 24.01.2019"
+      ]
+    },
+    {
+      "id": 36889686,
+      "name": "ООО \"САТУРН\"",
+      "inn": "5404461077",
+      "ogrn": "1125476079981",
+      "objects": "",
+      "charges": "",
+      "volumes": "",
+      "geozone": "",
+      "containers": "",
+      "volume_containers": "",
+      "contract": []
+    },
+    {
+      "id": 46889686,
+      "name": "Константинопольский Александр Валентинович",
+      "inn": "Не указан",
+      "ogrn": "4200 200793",
       "objects": "2",
-      "charges": "3040",
-      "volumes": "8",
-      "geozone": "1",
-      "containers": "6",
-      "volume_containers": "6.6",
+      "charges": "1 024",
+      "volumes": "1",
+      "geozone": "2",
+      "containers": "3",
+      "volume_containers": "10.2",
       "contract": [
         "№12-СЖ/12 от 24.01.2019"
       ]
     },
     {
-      "id": 16889686,
-      "name": "УФССП РОССИИ ПО КЕМЕРОВСКОЙ ОБЛАСТИ",
-      "inn": "4205077474",
-      "ogrn": "1044205103822",
-      "objects": "2",
-      "charges": "3040",
-      "volumes": "8",
+      "id": 56889686,
+      "name": "Воронов Александр Ярославович",
+      "inn": "Не указан",
+      "ogrn": "Не указан",
+      "objects": "1",
+      "charges": "3 687",
+      "volumes": "2.56",
       "geozone": "1",
-      "containers": "6",
-      "volume_containers": "6.6",
+      "containers": "1",
+      "volume_containers": "0.66",
       "contract": [
         "№12-СЖ/12 от 24.01.2019"
       ]
